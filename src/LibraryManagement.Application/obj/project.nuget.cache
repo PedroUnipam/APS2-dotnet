@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "qDyHeIbEwGg=",
+  "dgSpecHash": "1kKRCeuWII4=",
   "success": true,
-  "projectFilePath": "C:\\Users\\pedro\\OneDrive\\Documentos\\aps2\\LibraryManagement\\src\\LibraryManagement.Application\\LibraryManagement.Application.csproj",
+  "projectFilePath": "/workspaces/APS2-dotnet/src/LibraryManagement.Application/LibraryManagement.Application.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

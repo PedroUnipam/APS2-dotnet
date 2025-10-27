@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\pedro\\OneDrive\\Documentos\\aps2\\LibraryManagement\\src\\LibraryManagement.Infrastructure\\LibraryManagement.Infrastructure.csproj": {}
+    "/workspaces/APS2-dotnet/src/LibraryManagement.Infrastructure/LibraryManagement.Infrastructure.csproj": {}
   },
   "projects": {
-    "C:\\Users\\pedro\\OneDrive\\Documentos\\aps2\\LibraryManagement\\src\\LibraryManagement.Application\\LibraryManagement.Application.csproj": {
+    "/workspaces/APS2-dotnet/src/LibraryManagement.Application/LibraryManagement.Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\pedro\\OneDrive\\Documentos\\aps2\\LibraryManagement\\src\\LibraryManagement.Application\\LibraryManagement.Application.csproj",
+        "projectUniqueName": "/workspaces/APS2-dotnet/src/LibraryManagement.Application/LibraryManagement.Application.csproj",
         "projectName": "LibraryManagement.Application",
-        "projectPath": "C:\\Users\\pedro\\OneDrive\\Documentos\\aps2\\LibraryManagement\\src\\LibraryManagement.Application\\LibraryManagement.Application.csproj",
-        "packagesPath": "C:\\Users\\pedro\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\pedro\\OneDrive\\Documentos\\aps2\\LibraryManagement\\src\\LibraryManagement.Application\\obj\\",
+        "projectPath": "/workspaces/APS2-dotnet/src/LibraryManagement.Application/LibraryManagement.Application.csproj",
+        "packagesPath": "/home/codespace/.nuget/packages/",
+        "outputPath": "/workspaces/APS2-dotnet/src/LibraryManagement.Application/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\pedro\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "/home/codespace/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
@@ -26,8 +26,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\pedro\\OneDrive\\Documentos\\aps2\\LibraryManagement\\src\\LibraryManagement.Domain\\LibraryManagement.Domain.csproj": {
-                "projectPath": "C:\\Users\\pedro\\OneDrive\\Documentos\\aps2\\LibraryManagement\\src\\LibraryManagement.Domain\\LibraryManagement.Domain.csproj"
+              "/workspaces/APS2-dotnet/src/LibraryManagement.Domain/LibraryManagement.Domain.csproj": {
+                "projectPath": "/workspaces/APS2-dotnet/src/LibraryManagement.Domain/LibraryManagement.Domain.csproj"
               }
             }
           }
@@ -62,21 +62,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.415/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/8.0.412/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\pedro\\OneDrive\\Documentos\\aps2\\LibraryManagement\\src\\LibraryManagement.Domain\\LibraryManagement.Domain.csproj": {
+    "/workspaces/APS2-dotnet/src/LibraryManagement.Domain/LibraryManagement.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\pedro\\OneDrive\\Documentos\\aps2\\LibraryManagement\\src\\LibraryManagement.Domain\\LibraryManagement.Domain.csproj",
+        "projectUniqueName": "/workspaces/APS2-dotnet/src/LibraryManagement.Domain/LibraryManagement.Domain.csproj",
         "projectName": "LibraryManagement.Domain",
-        "projectPath": "C:\\Users\\pedro\\OneDrive\\Documentos\\aps2\\LibraryManagement\\src\\LibraryManagement.Domain\\LibraryManagement.Domain.csproj",
-        "packagesPath": "C:\\Users\\pedro\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\pedro\\OneDrive\\Documentos\\aps2\\LibraryManagement\\src\\LibraryManagement.Domain\\obj\\",
+        "projectPath": "/workspaces/APS2-dotnet/src/LibraryManagement.Domain/LibraryManagement.Domain.csproj",
+        "packagesPath": "/home/codespace/.nuget/packages/",
+        "outputPath": "/workspaces/APS2-dotnet/src/LibraryManagement.Domain/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\pedro\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "/home/codespace/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
@@ -120,21 +120,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.415/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/8.0.412/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\pedro\\OneDrive\\Documentos\\aps2\\LibraryManagement\\src\\LibraryManagement.Infrastructure\\LibraryManagement.Infrastructure.csproj": {
+    "/workspaces/APS2-dotnet/src/LibraryManagement.Infrastructure/LibraryManagement.Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\pedro\\OneDrive\\Documentos\\aps2\\LibraryManagement\\src\\LibraryManagement.Infrastructure\\LibraryManagement.Infrastructure.csproj",
+        "projectUniqueName": "/workspaces/APS2-dotnet/src/LibraryManagement.Infrastructure/LibraryManagement.Infrastructure.csproj",
         "projectName": "LibraryManagement.Infrastructure",
-        "projectPath": "C:\\Users\\pedro\\OneDrive\\Documentos\\aps2\\LibraryManagement\\src\\LibraryManagement.Infrastructure\\LibraryManagement.Infrastructure.csproj",
-        "packagesPath": "C:\\Users\\pedro\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\pedro\\OneDrive\\Documentos\\aps2\\LibraryManagement\\src\\LibraryManagement.Infrastructure\\obj\\",
+        "projectPath": "/workspaces/APS2-dotnet/src/LibraryManagement.Infrastructure/LibraryManagement.Infrastructure.csproj",
+        "packagesPath": "/home/codespace/.nuget/packages/",
+        "outputPath": "/workspaces/APS2-dotnet/src/LibraryManagement.Infrastructure/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\pedro\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "/home/codespace/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
@@ -146,8 +146,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\pedro\\OneDrive\\Documentos\\aps2\\LibraryManagement\\src\\LibraryManagement.Application\\LibraryManagement.Application.csproj": {
-                "projectPath": "C:\\Users\\pedro\\OneDrive\\Documentos\\aps2\\LibraryManagement\\src\\LibraryManagement.Application\\LibraryManagement.Application.csproj"
+              "/workspaces/APS2-dotnet/src/LibraryManagement.Application/LibraryManagement.Application.csproj": {
+                "projectPath": "/workspaces/APS2-dotnet/src/LibraryManagement.Application/LibraryManagement.Application.csproj"
               }
             }
           }
@@ -171,7 +171,7 @@
               "target": "Package",
               "version": "[8.0.0, )"
             },
-            "Microsoft.EntityFrameworkCore.Sqlite": {
+            "Microsoft.EntityFrameworkCore.SqlServer": {
               "target": "Package",
               "version": "[8.0.0, )"
             },
@@ -196,7 +196,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.415/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/8.0.412/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

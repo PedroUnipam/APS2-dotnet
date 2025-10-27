@@ -39,7 +39,7 @@ if (app.Environment.IsDevelopment())
     app.UseSwaggerUI(c => 
     {
         c.SwaggerEndpoint("/swagger/v1/swagger.json", "Library Management API v1");
-        c.RoutePrefix = string.Empty; // Isso faz o Swagger abrir na raiz
+        c.RoutePrefix = string.Empty;
     });
 }
 
@@ -53,8 +53,8 @@ using (var scope = app.Services.CreateScope())
 {
     var context = scope.ServiceProvider.GetRequiredService<ApplicationDbContext>();
     
-    // Aplicar migrations automaticamente
-    await context.Database.MigrateAsync();
+    // ✅ USAR EnsureCreatedAsync em vez de MigrateAsync
+    await context.Database.EnsureCreatedAsync();
     
     // Seed sample data
     await SeedData.Initialize(context);

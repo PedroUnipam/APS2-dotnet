@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = LibraryManagement.Infrastructure
-build_property.ProjectDir = C:\Users\pedro\OneDrive\Documentos\aps2\LibraryManagement\src\LibraryManagement.Infrastructure\
+build_property.ProjectDir = /workspaces/APS2-dotnet/src/LibraryManagement.Infrastructure/
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
