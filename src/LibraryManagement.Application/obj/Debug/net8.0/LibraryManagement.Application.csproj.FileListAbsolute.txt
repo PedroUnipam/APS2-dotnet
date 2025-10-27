@@ -1,0 +1,15 @@
+C:\Users\pedro\OneDrive\Documentos\aps2\LibraryManagement\src\LibraryManagement.Application\bin\Debug\net8.0\LibraryManagement.Application.deps.json
+C:\Users\pedro\OneDrive\Documentos\aps2\LibraryManagement\src\LibraryManagement.Application\bin\Debug\net8.0\LibraryManagement.Application.dll
+C:\Users\pedro\OneDrive\Documentos\aps2\LibraryManagement\src\LibraryManagement.Application\bin\Debug\net8.0\LibraryManagement.Application.pdb
+C:\Users\pedro\OneDrive\Documentos\aps2\LibraryManagement\src\LibraryManagement.Application\bin\Debug\net8.0\LibraryManagement.Domain.dll
+C:\Users\pedro\OneDrive\Documentos\aps2\LibraryManagement\src\LibraryManagement.Application\bin\Debug\net8.0\LibraryManagement.Domain.pdb
+C:\Users\pedro\OneDrive\Documentos\aps2\LibraryManagement\src\LibraryManagement.Application\obj\Debug\net8.0\LibraryManagement.Application.csproj.AssemblyReference.cache
+C:\Users\pedro\OneDrive\Documentos\aps2\LibraryManagement\src\LibraryManagement.Application\obj\Debug\net8.0\LibraryManagement.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pedro\OneDrive\Documentos\aps2\LibraryManagement\src\LibraryManagement.Application\obj\Debug\net8.0\LibraryManagement.Application.AssemblyInfoInputs.cache
+C:\Users\pedro\OneDrive\Documentos\aps2\LibraryManagement\src\LibraryManagement.Application\obj\Debug\net8.0\LibraryManagement.Application.AssemblyInfo.cs
+C:\Users\pedro\OneDrive\Documentos\aps2\LibraryManagement\src\LibraryManagement.Application\obj\Debug\net8.0\LibraryManagement.Application.csproj.CoreCompileInputs.cache
+C:\Users\pedro\OneDrive\Documentos\aps2\LibraryManagement\src\LibraryManagement.Application\obj\Debug\net8.0\LibraryM.C4F4E017.Up2Date
+C:\Users\pedro\OneDrive\Documentos\aps2\LibraryManagement\src\LibraryManagement.Application\obj\Debug\net8.0\LibraryManagement.Application.dll
+C:\Users\pedro\OneDrive\Documentos\aps2\LibraryManagement\src\LibraryManagement.Application\obj\Debug\net8.0\refint\LibraryManagement.Application.dll
+C:\Users\pedro\OneDrive\Documentos\aps2\LibraryManagement\src\LibraryManagement.Application\obj\Debug\net8.0\LibraryManagement.Application.pdb
+C:\Users\pedro\OneDrive\Documentos\aps2\LibraryManagement\src\LibraryManagement.Application\obj\Debug\net8.0\ref\LibraryManagement.Application.dll
